@@ -17,8 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" />]
-
+<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" />
 
 <br />
 <br />
