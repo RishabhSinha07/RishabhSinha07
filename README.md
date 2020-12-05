@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Flutter based App!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a good place to work and contribute to society
+- 👯 Working at Amazon
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new stuff
 - ⚡ Fun fact: I love to play games
 
