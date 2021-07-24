@@ -2,11 +2,11 @@
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently working on a Flutter based App!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on leaning while developing for one of the big 4 companies!
+- 🌱 I’m currently working with Python, React, Flutter, Selenium, C++, Js, HTML, CSS, Electron JS, .... (We will see what else comes along the way :D)
 - 👯 Working at Amazon
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn new stuff
-- ⚡ Fun fact: I love to play games
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn new stuff
+- ⚡ Fun fact: I love to horror movies. 
 
 ### Connect with me:
 
