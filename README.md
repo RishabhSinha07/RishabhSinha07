@@ -1,35 +1,38 @@
-### Hi there, I'm Rishabh 👋
+### Hi, I’m Rishabh 👋
 
-## I'm a Student, Developer, and Tech Enthusiast!
+## AI Engineer • LLM Developer • Software Engineer
 
-- 🔭 I’m currently working on leaning while developing for one of the big 4 companies!
-- 🌱 I’m currently working with Python, React, Flutter, Selenium, C++, Js, HTML, CSS, Electron JS, .... (We will see what else comes along the way :D)
-- 👯 Working at Amazon
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn new stuff
-- ⚡ Fun fact: I love to horror movies. 
+I build **AI-powered applications** using **Large Language Models**, focusing on practical, production-ready systems. My interests include **LLM orchestration, autonomous agents, retrieval-augmented generation (RAG), and developer tooling**.
 
-### Connect with me:
-
-[<img align="left" alt="RishabhSinha07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RishabhSinha07 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" />
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
+* 🔭 Building AI applications using **LangChain, LLMs, and agent-based workflows**
+* 🧠 Working with **OpenAI APIs, prompt engineering, and model evaluation**
+* 🧩 Designing **RAG pipelines** with vector databases and structured data
+* ⚙️ Experience integrating AI into **web apps, automation, and internal tools**
+* 🏗️ Software Engineer at **Amazon**
+* 👯 Open to collaborating on **AI tools, open-source projects, and research-driven prototypes**
+* ⚡ Fun fact: I enjoy exploring how LLMs fail just as much as how they succeed 😄
 
 ---
 
-[instagram]: https://www.instagram.com/rishabh_s1nha/
-[linkedin]: https://www.linkedin.com/in/rishabh-sinha-99a706164/
+### 🧠 AI & LLM Stack
+
+* **Frameworks:** LangChain, LangGraph
+* **Models:** OpenAI GPT, open-source LLMs
+* **Techniques:** RAG, tool calling, agents, prompt engineering, evals
+* **Automation:** AI agents, scheduled workflows, report generation
+
+---
+
+### 🔍 Current Focus
+
+* Building **LLM-powered agents** for real-world automation
+* Improving **context retrieval and evaluation** in RAG systems
+* Exploring **LangGraph for multi-step reasoning workflows**
+* Shipping **AI-first developer tools**
+
+---
+
+### 🤝 Connect with me
+https://www.linkedin.com/in/rishabh-sinha-99a706164/
+
+<br />
